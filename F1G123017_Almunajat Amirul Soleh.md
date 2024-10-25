@@ -182,7 +182,7 @@ Dengan konfigurasi ini, daemon process akan berjalan otomatis tanpa perlu bergan
 ## Screenshots
 - **Tampilan Log**:
 - **Tampilan web**:
-  ![Tampilan Log](https://drive.google.com/file/d/1zF7lM3z-iJVy-Crxwe6JWo5CVfDlqeCE/view?usp=drive_link)
+  ![Tampilan Log](https://drive.google.com/file/d/1zF7lM3z-iJVy-Crxwe6JWo5CVfDlqeCE/view)
 
 - **Daemon Process Berjalan**:
 
