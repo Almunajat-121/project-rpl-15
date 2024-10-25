@@ -180,12 +180,19 @@ Daemon akan terus berjalan di latar belakang dan memantau perubahan pada direkto
 Dengan konfigurasi ini, daemon process akan berjalan otomatis tanpa perlu bergantung pada terminal atau aplikasi PHP yang dijalankan secara manual. NSSM akan memastikan daemon selalu berjalan di latar belakang, dan jika terjadi crash, daemon dapat di-restart dengan mudah. Integrasi ini cocok untuk proyek yang membutuhkan monitoring real-time, seperti pada aplikasi file manager ini.
 
 ## Screenshots
-- **Tampilan Log**:
+
 - **Tampilan web**:
-  ![Tampilan Log](https://drive.google.com/file/d/1zF7lM3z-iJVy-Crxwe6JWo5CVfDlqeCE/view)
+ ![Tampilan log di web](https://drive.google.com/uc?export=view&id=1zF7lM3z-iJVy-Crxwe6JWo5CVfDlqeCE)
+ 
+- **Tampilan Log**:
+![Tampilan Gambar](https://drive.google.com/uc?export=view&id=1OYpjbzay6aOPn6pXg5zTHiGzJqw_Gx2n
+)
+  ![Daemon Process](https://drive.google.com/uc?export=view&id=11YSPxvFqxUOtIj5zoqdyApwDTBrLkttC
+)
 
 - **Daemon Process Berjalan**:
+ ![Tampilan log](https://drive.google.com/uc?export=view&id=1bhXqBczK3KqDDmoMmyPADN7M50fZ49J8
+)
 
-  ![Daemon Process](path_to_screenshot)
 
 ---
